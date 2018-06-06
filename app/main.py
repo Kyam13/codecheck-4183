@@ -4,6 +4,6 @@ def main(argv):
     # ---
     # This is a sample code to use arguments and outputs.
     # Edit and remove this code as you like.
-
-    for i, v in enumerate(argv):
-        print("argv[{0}]: {1}".format(i, v))
+    print("Hello " + argv[0] +"!")
+    #for i, v in enumerate(argv):
+     #   print("argv[{0}]: {1}".format(i, v))
